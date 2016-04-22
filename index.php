@@ -7,9 +7,9 @@
     <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
     <!--<meta name="description" content="Welcome to cidzor">-->
 
-    <title>/r/frugalmalefashion listener - cidzor</title>
+    <title>/r/netsec listener - cidzor</title>
 
-    <link href="../../assets/style/style.css" rel="stylesheet" type="text/css" />
+    <link href="style.css" rel="stylesheet" type="text/css" />
 	
 	<link href='http://fonts.googleapis.com/css?family=Roboto' rel='stylesheet' type='text/css'>
 	<link href='http://fonts.googleapis.com/css?family=Open+Sans' rel='stylesheet' type='text/css'>
@@ -19,7 +19,7 @@
 	<link rel="shortcut icon" href="/favicon.ico" type="image/x-icon">
 	<link rel="icon" href="/favicon.ico" type="image/x-icon">
 
-	<script src="/assets/jquery-1.10.0.min.js"></script>
+	<script src="jquery-1.11.1.min.js"></script>
 	
 	<script>
 	function playSound() {
@@ -67,7 +67,7 @@
 		<audio id="tracker_alarm" style="display:none" src="bell.mp3" preload="auto"></audio>
 
 		<div class="tracker_entry_wrapper" style="cursor:pointer" onclick="playSound()">
-			Currently listening to reddit.com/r/frugalmalefashion.
+			Currently listening to reddit.com/r/netsec.
 			<br><br>
 			About: This page will automatically update as new posts are made. No refreshes are required out of you. 
 			With each new update, a message will pop up and a sound will be played. All you need to do is to keep this page open in 
